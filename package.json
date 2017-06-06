@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/tVoss/satellite/issues"
   },
-  "homepage": "https://github.com/tVoss/satellite#readme"
+  "homepage": "https://github.com/tVoss/satellite#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "thepiratebay": "^1.4.2",
+    "torrent-stream": "^1.0.3"
+  }
 }
